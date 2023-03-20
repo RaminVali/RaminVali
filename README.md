@@ -1,5 +1,6 @@
-
-
+<div align="center">
+  <img src="pexels-stanislav-kondratiev-2908984.jpg" width="600" height="300"/>
+</div>
 
 
 ## About Me
@@ -11,18 +12,19 @@ Having started out with MATLAB, I am comfortable with most of python libraries u
 
 
 
-<div align="center">
-  <img src="pexels-photo-2908984.jpeg" width="600" height="300"/>
-</div>
+# Current Porjects:
+
+- 1
+- 2
+- 3
 
 
 
 
 
 
-
-
-
+# My Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RaminVali&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
