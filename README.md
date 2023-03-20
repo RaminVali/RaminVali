@@ -1,7 +1,4 @@
 
-<div align="center">
-  <img src="[https://images.pexels.com/photos/2908984/pexels-photo-2908984.jpeg](https://images.pexels.com/photos/2908984/pexels-photo-2908984.jpeg)" width="600" height="300"/>
-</div>
 
 
 
@@ -15,7 +12,7 @@ Having started out with MATLAB, I am comfortable with most of python libraries u
 
 
 <div align="center">
-  <img src="https://images.pexels.com/photos/2908984/pexels-photo-2908984.jpeg" width="600" height="300"/>
+  <img src="pexels-photo-2908984.jpeg" width="600" height="300"/>
 </div>
 
 
