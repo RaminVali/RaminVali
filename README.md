@@ -50,6 +50,9 @@ mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ramin-
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite" alt="sqlite" width="40">&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" title="Big Query" alt="Big Query" width="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" **alt="Anaconda" width="40" height="40"/>
 </div>
 
