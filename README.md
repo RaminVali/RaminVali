@@ -15,9 +15,10 @@ Having started out with MATLAB, I am comfortable with most of python libraries u
 
 ## Current Porjects:
 
-1 - Pipeline Incident EDA 
-2 - Champions League Football Match Prediction
-3 - Data Quest Project Portfolio
+- 1 [Exploratory Data Analysis on Gaps Pipieline Incidents](https://github.com/RaminVali/gas_pipe_project)
+- 2 [Champions League Soccer Match Prediction](https://github.com/RaminVali/CL_WebScraping_ML_Prediction)
+- 3 [Dataquest Projects](https://github.com/RaminVali/DQ_projects)
+- 4 [PhD Projects](https://github.com/RaminVali/Chaos-based-Synchronisation-for-Secure-Wireless-Communication)
 
 
 ## Currently Learning: TensorFlow, Deep Learning
