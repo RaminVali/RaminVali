@@ -21,11 +21,6 @@ Having started out with MATLAB, I am comfortable with most of python libraries u
 
 
 
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" &nbsp;
-       
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/anaconda/anaconda-original.svg" title="Anaconda" **alt="Anaconda" width="40" height="40"/ &nbsp;>
-</div>
 
 
 
@@ -53,6 +48,10 @@ mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ramin-
 
 
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" &nbsp;;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" **alt="Anaconda" width="40" height="40"/>
+</div>
 
 
 <div>
