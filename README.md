@@ -27,7 +27,7 @@ Having started out with MATLAB, I am comfortable with most of python libraries u
 
 
 
-How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ramin-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/raminvali/](https://www.linkedin.com/in/raminvali/))
+How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raminvali/)
 
 
 
