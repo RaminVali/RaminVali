@@ -7,7 +7,7 @@
 
 I have a [PhD](https://github.com/RaminVali/RaminVali/blob/main/Ramin%20Vali%20PhD%20Thesis.pdf) in Electrical Engineering from [The University of Auckland](https://www.auckland.ac.nz/en/engineering/our-research/discover/research-areas-and-facilities/telecommunications-and-electromagnetics.html), New Zealand. I have an extensive background in stochastic processes, probability and statistics, [chaos-based wireless communication](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7GhRI3KwgTIoniFS05McH4_z5lJ4bRv6XL1rVRgduHgQJuyh0cFYv-zr4PGdcUUPM_Ma2GP-mTHukRh_sR7r3qedC_mB9zxipmO_-aBAhUWuyzSYk&user=a6ESs70AAAAJ) and physical layer security.
 
-In the past 10 years, I have moved from the world of wireless communications  to commodity price tracking and data analysis in the Middle East. It turns out that deep knowledge of stochastic processes, probability and statistics can help a lot in predicting and analysing commodity prices. This led me to have a current interest in data science, machine learning and natural language processing.
+In the past 10 years, I have moved from the world of wireless communications  to commodity price tracking and data science in the Middle East. It turns out that deep knowledge of stochastic processes, probability and statistics can help a lot in predicting and analysing commodity prices. This led me to have a current interest in data science, machine learning and natural language processing.
 
 Having started out with MATLAB, I am comfortable with most of python libraries used in web scraping, EDA, visualisation, data cleaning, and ML. I am also familiar with SQL and spark, as well as Montecarlo simulations and numerical analysis.
 
@@ -15,14 +15,14 @@ Having started out with MATLAB, I am comfortable with most of python libraries u
 
 ## Current Porjects:
 
-- 1 [Exploratory Data Analysis on Gas Pipieline Incidents](https://github.com/RaminVali/gas_pipe_project)
+- 1 [Consumer Price Index Predictin Using Time Series Techniques](https://github.com/RaminVali/Time_Series_Project)
 - 2 [Champions League Soccer Match Prediction](https://github.com/RaminVali/CL_WebScraping_ML_Prediction)
-- 3 [Consumer Price Index Predictin Using Time Series Techniques](https://github.com/RaminVali/Time_Series_Project)
-- 4 [Dataquest Projects](https://github.com/RaminVali/DQ_projects)
-- 5 [PhD Projects](https://github.com/RaminVali/Chaos-based-Synchronisation-for-Secure-Wireless-Communication)
+- 3 [Exploratory Data Analysis on Gas Pipieline Incidents](https://github.com/RaminVali/gas_pipe_project)
+- 4 [Customer Churn prediction](https://github.com/RaminVali/Customer_Churn) - Work in progress
+- 5 [Dataquest Projects](https://github.com/RaminVali/DQ_projects)
 
 
-## Currently Learning: TensorFlow, Deep Learning
+## Currently working on: PyTorch, Deep Learning
 
 
 
