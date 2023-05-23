@@ -17,8 +17,9 @@ Having started out with MATLAB, I am comfortable with most of python libraries u
 
 - 1 [Exploratory Data Analysis on Gas Pipieline Incidents](https://github.com/RaminVali/gas_pipe_project)
 - 2 [Champions League Soccer Match Prediction](https://github.com/RaminVali/CL_WebScraping_ML_Prediction)
-- 3 [Dataquest Projects](https://github.com/RaminVali/DQ_projects)
-- 4 [PhD Projects](https://github.com/RaminVali/Chaos-based-Synchronisation-for-Secure-Wireless-Communication)
+- 3 [Consumer Price Index Predictin Using Time Series Techniques](https://github.com/RaminVali/Time_Series_Project)
+- 4 [Dataquest Projects](https://github.com/RaminVali/DQ_projects)
+- 5 [PhD Projects](https://github.com/RaminVali/Chaos-based-Synchronisation-for-Secure-Wireless-Communication)
 
 
 ## Currently Learning: TensorFlow, Deep Learning
