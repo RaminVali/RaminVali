@@ -15,10 +15,10 @@ Having started out with MATLAB, I am comfortable with most of python libraries u
 
 ## Current Porjects:
 
-- 1 [Consumer Price Index Predictin Using Time Series Techniques](https://github.com/RaminVali/Time_Series_Project)
-- 2 [Champions League Soccer Match Prediction](https://github.com/RaminVali/CL_WebScraping_ML_Prediction)
-- 3 [Exploratory Data Analysis on Gas Pipieline Incidents](https://github.com/RaminVali/gas_pipe_project)
-- 4 [Customer Churn prediction](https://github.com/RaminVali/Customer_Churn) - Work in progress
+- 1 [Customer Churn prediction](https://github.com/RaminVali/Customer_Churn)
+- 2 [Consumer Price Index Predictin Using Time Series Techniques](https://github.com/RaminVali/Time_Series_Project)
+- 3 [Champions League Soccer Match Prediction](https://github.com/RaminVali/CL_WebScraping_ML_Prediction)
+- 4 [Exploratory Data Analysis on Gas Pipieline Incidents](https://github.com/RaminVali/gas_pipe_project)
 - 5 [Dataquest Projects](https://github.com/RaminVali/DQ_projects)
 
 
