@@ -15,7 +15,7 @@ Having started out with MATLAB, I am comfortable with most of python libraries u
 
 ## Current Porjects:
 
-- 1 [Customer Churn prediction](https://github.com/RaminVali/Customer_Churn)
+- 1 [Customer Churn Prediction](https://github.com/RaminVali/Customer_Churn)
 - 2 [Consumer Price Index Predictin Using Time Series Techniques](https://github.com/RaminVali/Time_Series_Project)
 - 3 [Champions League Soccer Match Prediction](https://github.com/RaminVali/CL_WebScraping_ML_Prediction)
 - 4 [Exploratory Data Analysis on Gas Pipieline Incidents](https://github.com/RaminVali/gas_pipe_project)
@@ -54,6 +54,7 @@ How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ramin-blue?sty
   <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" title="Big Query" alt="Big Query" width="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40">&nbsp;
   <img src="https://logos-download.com/wp-content/uploads/2021/01/Scikit_Learn_Logo.svg" title="scikit learn" alt="scikit learn" width="40">&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure" alt="azure" width="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" **alt="Anaconda" width="40" height="40"/>
 </div>
 
