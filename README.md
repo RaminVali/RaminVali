@@ -15,7 +15,7 @@ Having started out with MATLAB, I am comfortable with most of python libraries u
 
 ## Current Porjects:
 
-- 1 [Customer Churn Prediction](https://github.com/RaminVali/Customer_Churn)
+- 1 [End-to-End Customer Churn Prediction Project in Azure](https://github.com/RaminVali/Customer_Churn)
 - 2 [Consumer Price Index Predictin Using Time Series Techniques](https://github.com/RaminVali/Time_Series_Project)
 - 3 [Champions League Soccer Match Prediction](https://github.com/RaminVali/CL_WebScraping_ML_Prediction)
 - 4 [Exploratory Data Analysis on Gas Pipieline Incidents](https://github.com/RaminVali/gas_pipe_project)
