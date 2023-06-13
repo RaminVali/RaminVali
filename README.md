@@ -56,7 +56,7 @@ How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ramin-blue?sty
   <img src="https://logos-download.com/wp-content/uploads/2021/01/Scikit_Learn_Logo.svg" title="scikit learn" alt="scikit learn" width="40">&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure" alt="azure" width="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" **alt="Anaconda" width="40" height="40"/>&nbsp;
-   <img src="https://images.credly.com/size/680x680/images/5c8f…9b327f/azure-data-scientist-associate-600x600.png" title="Azure Data Scientist Associate" **alt="AzureDS" width="40" height="40"/>
+   <img src="azure-data-scientist-associate-600x600.png" title="Azure Data Scientist Associate" **alt="AzureDS" width="40" height="40"/>
   
 </div>
 
