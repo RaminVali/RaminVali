@@ -4,16 +4,17 @@
 
 
 ## About Me
+In the past 10 years, I have moved from the world of wireless communications  to commodity price tracking and data science in the Europe and Middle East. It turns out that deep knowledge of stochastic processes, probability and statistics can help a lot in predicting and analysing commodity prices. This led me to have a current interest in data science, machine learning, time series analysis, and deep learning. Having started out with MATLAB, I am comfortable with Python data sicnece and statistics libraries used in web scraping, EDA, visualisation, data cleaning, and ML. I am also familiar with SQL and spark, as well as Montecarlo simulations and numerical analysis.
 
 I have a [PhD](https://github.com/RaminVali/RaminVali/blob/main/Ramin%20Vali%20PhD%20Thesis.pdf) in Electrical Engineering from [The University of Auckland](https://www.auckland.ac.nz/en/engineering/our-research/discover/research-areas-and-facilities/telecommunications-and-electromagnetics.html), New Zealand. I have an extensive background in stochastic processes, probability and statistics, [chaos-based wireless communication](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7GhRI3KwgTIoniFS05McH4_z5lJ4bRv6XL1rVRgduHgQJuyh0cFYv-zr4PGdcUUPM_Ma2GP-mTHukRh_sR7r3qedC_mB9zxipmO_-aBAhUWuyzSYk&user=a6ESs70AAAAJ) and physical layer security.
 
-In the past 10 years, I have moved from the world of wireless communications  to commodity price tracking and data science in the Middle East. It turns out that deep knowledge of stochastic processes, probability and statistics can help a lot in predicting and analysing commodity prices. This led me to have a current interest in data science, machine learning and natural language processing.
 
-Having started out with MATLAB, I am comfortable with most of python libraries used in web scraping, EDA, visualisation, data cleaning, and ML. I am also familiar with SQL and spark, as well as Montecarlo simulations and numerical analysis.
+
 
 
 
 ## Current Porjects:
+All of projects below are deployed on cloud based solution. As you can see I manage all my projects through the full ML cycle, from data sourcing to deployment.
 
 - 1 [End-to-End Customer Churn Prediction Project in Azure](https://github.com/RaminVali/Customer_Churn)
 - 2 [Consumer Price Index Predictin Using Time Series Techniques](https://github.com/RaminVali/Time_Series_Project)
