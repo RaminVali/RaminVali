@@ -32,7 +32,7 @@ All of projects below are deployed on cloud based solution. As you can see I man
 
 
 
-How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ramin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raminvali/)
+How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ramin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramin-vali/)
 
 
 
